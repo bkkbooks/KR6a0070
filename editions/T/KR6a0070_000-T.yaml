@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0070/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 數經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0070.xml
+    old_id: T01n0070
+hash: sha256:15c54891603c1a7d86bc31c203b681e9aa794faa02e6f39bac41e6f2a8ee21ac
