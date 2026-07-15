@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0070/v1
 canonical_location: https://kanripo.org/bkk/KR6a0070/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 數經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0070_000.yaml, hash: 'sha256:15c54891603c1a7d86bc31c203b681e9aa794faa02e6f39bac41e6f2a8ee21ac'}
-  - {seq: 1, filename: KR6a0070_001.yaml, hash: 'sha256:a5f0e81b16e3d6837f1e959fa16d255c628ebb6f9f57249ecd07aa8bc315c700'}
+  - {seq: 1, filename: KR6a0070_001.yaml, hash: 'sha256:1bcbea6f817f7b6f95c8648f2ab1d1b58a1e47d5f3d16819524410439366212f'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0070_000.markers.yaml, hash: 'sha256:c930f1f8def2302dec34410bf5fea7b098ef2dc76c0de659011eacdffd89dc08'}
-  - {seq: 1, role: markers, filename: assets/KR6a0070_001.markers.yaml, hash: 'sha256:ef3926a630b7f2e95f54ff6e2b87e818412a026a62bbebfe20bdac68d7b1d657'}
+  - {seq: 1, role: markers, filename: assets/KR6a0070_001.markers.yaml, hash: 'sha256:25cd83680acca81aa8d17a9bf11caec7f6f75e981688a16a706fd179c31f670c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 佛說數經
   type: juan
   level: 1
-hash: sha256:65e6ed9f343196e6874e5245fd7cf970cf3522759dc47a1ba8cddf93aea837b9
+hash: sha256:30a0b37a2f07ff983db92ec67b7dd965024667b0b7f82b5763e5f1b1c81e3730
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
